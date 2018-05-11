@@ -20,4 +20,4 @@ MISC
 1.查找Dialga1234
   進入dialga1234 on Scratch
   進入abcdefghijklmnopqrstuvw.xyz查看程式
-!.[.圖證](https://github.com/0Isolesty0/image/blob/master/MISC.PNG) 
+![圖證](https://github.com/0Isolesty0/image/blob/master/%E9%9A%B1%E5%AF%AB%E8%A1%932.PNG) 
