@@ -22,3 +22,8 @@ MISC
   進入dialga1234 on Scratch
   進入abcdefghijklmnopqrstuvw.xyz查看程式
 ![圖證](https://github.com/0Isolesty0/image/blob/master/MISC.PNG) 
+```
+crypto
+```
+201
+![圖證](https://github.com/0Isolesty0/image/blob/master/crypto%20201.PNG) 
