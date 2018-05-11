@@ -26,6 +26,11 @@ MISC
 crypto
 ```
 201
-進入python
+開啟python
 將150815 1941次方後mod 435979
 ![圖證](https://github.com/0Isolesty0/image/blob/master/crypto%20201.PNG) 
+202
+開啟python
+import gmpy2
+輸入各項參數
+![圖證](https://github.com/0Isolesty0/image/blob/master/crypto%20202.PNG)
