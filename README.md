@@ -26,4 +26,6 @@ MISC
 crypto
 ```
 201
+進入python
+將150815 1941次方後mod 435979
 ![圖證](https://github.com/0Isolesty0/image/blob/master/crypto%20201.PNG) 
