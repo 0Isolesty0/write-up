@@ -5,6 +5,7 @@
 1.base64
 https://www.base64decode.org/
 2.ascii
+http://www.unit-conversion.info/texttools/ascii/
 ```
 隱寫術
 ```
